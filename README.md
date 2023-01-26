@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fadjarembutara
-- 👀 I’m interested in design with motion graphic, and coding
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on _______
+- 👀 I’m interested in Data, Machine Learning, Design and Motion Graphic
+- 🌱 I’m currently learning Data Scientist and Machine Learning
 - 📫 How to reach me (Email : fadjarembutara@gmail.com || Instagram : fadjarembutara)
 
 <!---
